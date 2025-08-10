@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai3   {
+public class B ai3   {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int a=(int)(Math.random()*100);
